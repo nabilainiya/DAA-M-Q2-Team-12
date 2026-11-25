@@ -353,5 +353,3 @@ This project was developed collaboratively as part of the Design and Analysis of
 | Muhammad Hanif Nasrullah | Game Mechanics and Level Design |
 
 ---
-
-**Treasure Quest — Explore the maze, collect the treasures, and discover how algorithms find their paths!**
